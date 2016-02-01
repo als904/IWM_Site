@@ -1,0 +1,41 @@
+<style type="text/css">
+
+#top {
+padding: 10px;
+background: black;
+color: white;
+border-radius: 10px;
+}
+
+#favorites {
+	background: black;
+	height: 300px;
+}
+
+.favoriteimages {
+	max-width: 33%;
+	height: auto;
+	float: left;
+	border-radius: 300px
+}
+
+.favoritetext {
+    padding: 5px;
+		width: 100%;
+		float: left;
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+}
+
+p {
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	background: black;
+	color: white;
+}
+</style>
